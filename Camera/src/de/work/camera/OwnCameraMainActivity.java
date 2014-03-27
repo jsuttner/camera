@@ -5,7 +5,7 @@ import android.hardware.Camera;
 import android.os.Bundle;
 import android.widget.FrameLayout;
 
-public class OwnCameraMainActivitiy extends Activity{
+public class OwnCameraMainActivity extends Activity{
 
 	private Camera mCamera;
     private CameraPreview mPreview;
